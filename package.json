@@ -53,7 +53,7 @@
     "cookie-parser": "1.4.1",
     "debug": "2.2.0",
     "express": "4.13.4",
-    "pretty-error": "2.0.0",
+    "pretty-error": "4.0.0",
     "react": "0.14.7",
     "react-dom": "0.14.7",
     "react-redux": "4.4.0",
