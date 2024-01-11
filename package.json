@@ -63,7 +63,7 @@
     "redux-async-connect": "1.0.0-rc2",
     "redux-thunk": "2.0.1",
     "scroll-behavior": "0.3.3",
-    "serialize-javascript": "1.2.0",
+    "serialize-javascript": "6.0.2",
     "webpack-isomorphic-tools": "2.2.44"
   },
   "devDependencies": {
